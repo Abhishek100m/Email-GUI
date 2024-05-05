@@ -1,0 +1,13 @@
+.container{
+    text-align: left;
+    margin: 50px;
+}
+.field{
+    width: 100%;
+}
+.card{
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+    background: #c892ec;
+}
